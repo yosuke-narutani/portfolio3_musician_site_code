@@ -1,11 +1,11 @@
-/* PC用CSS 最小幅1025px*/
+﻿/* PC用CSS 最小幅1025px*/
 @media screen and (min-width: 1025px) {
   /* webフォント一覧
 
       font-family: 'Raleway', sans-serif;           太目
       font-family: 'Playfair Display', serif;       シンプルかっこいい
       font-family: 'Shadows Into Light', cursive;   細目で崩した感じ
-      font-family: 'Special Elite', cursive;        印字、ホラーっぽい
+      font-family: 'Special Elite', cursive;        印字
       font-family: 'Montaga', serif;
       font-weight:boldと書けば太字で、font-weight:lighterとすれば細字
       */
