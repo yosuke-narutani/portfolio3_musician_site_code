@@ -1,0 +1,128 @@
+/* サイト編集ページのCSS */
+
+body{
+  width: 700px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  margin: 50px;
+}
+
+
+
+/* 新情報テーブル */
+table#new_information{
+  border: 1px solid black;
+  width: 900px;
+}
+
+
+tr#new_information_header th{
+  border: 1px solid black;
+  width: 400px;
+ background-color: rgb(156, 156, 192);
+}
+
+tr#information_table td{
+  border: 1px solid black;
+  /* width: 500px; */
+}
+
+
+
+
+
+div.container_tel{
+display: inline;
+}
+
+
+
+/* 以下スケジュールテーブル */
+
+div#fv-continer-schedule table.schedule{
+  border: 1px solid black;
+
+}
+
+
+
+div#fv-continer-schedule table.schedule th{
+  padding: 5px;
+  margin: auto;
+  color: black;
+  border: 1px solid black;
+}
+
+tr#schedule_header{
+  padding: 5px;
+  margin: auto;
+  color: black;
+  border: 1px solid black;
+  background-color: rgb(156, 156, 192);
+}
+
+div#fv-continer-schedule table.schedule td{
+  padding: 5px;
+  margin: auto;
+  color: black;
+  border: 1px solid black;
+}
+
+
+div#fv-continer-schedule table.schedule tr td#table {
+  padding: 5px;
+  margin: auto;
+  color: black;
+  border: 1px solid black;
+}
+
+div#fv-continer-schedule table.schedule th#leader {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 120px;
+  
+}
+
+div#fv-continer-schedule table.schedule th#date {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 50px;
+  /* background-color: rgb(133, 18, 18); */
+}
+
+div#fv-continer-schedule table.schedule th#place {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 150px;
+  /* background-color: rgb(133, 18, 18); */
+}
+
+div#fv-continer-schedule table.schedule th#member {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 200px;
+  /* background-color: rgb(133, 18, 18); */
+}
+
+div#fv-continer-schedule table.schedule th#remarks {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 120px;
+  /* background-color: rgb(133, 18, 18); */
+  
+}
+
+div#fv-continer-schedule table.schedule th#edit {
+  padding: 5px;
+  margin: auto;
+  background-color: initial;
+  width: 120px;
+  /* background-color: rgb(133, 18, 18); */
+  
+}
+/* スケジュールの表題終り */
